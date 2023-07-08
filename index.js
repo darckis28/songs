@@ -1,4 +1,4 @@
-const sounds = ["Dios","Onichan","Causa","Posible"];
+const sounds = ["Dios","Onichan","Causa","Posible","Nooo"];
 sounds.forEach((sound)=>{
     const btn = document.createElement("button");
     btn.classList.add("btn");
